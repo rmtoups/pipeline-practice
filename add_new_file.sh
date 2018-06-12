@@ -6,3 +6,4 @@ git config --global user.name "rmtoups"
 
 git add .
 git commit -m "added new text file"
+git push
