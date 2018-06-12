@@ -3,4 +3,5 @@
 git clone rmtoups-github updated-github
 
 cd updated-github
+ls
 
