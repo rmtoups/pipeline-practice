@@ -2,9 +2,14 @@
 
 pwd
 ls
-cd ~/updated-github
+cd ~/
 ls
 cd rmtoups-github
+ls
+cd ..
+ls
+cd updated-github
+ls
 
 git config --global user.email "rmtoups@gmail.com"
 git config --global user.name "rmtoups"
