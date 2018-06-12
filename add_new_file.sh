@@ -2,8 +2,6 @@
 
 pwd
 ls
-cd ~/
-ls
 cd rmtoups-github
 ls
 cd ..
