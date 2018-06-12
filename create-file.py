@@ -6,7 +6,7 @@ import os
 ls = os.listdir()
 print(ls)
 
-os.chdir("rmtoups-github")
+os.chdir("updated-github")
 
 cwd = os.getcwd()
 print(cwd)
