@@ -15,6 +15,7 @@ file = open("file_"+sys.argv[1]+".txt",'w+')
 file.write("hello?")
 file.close()
 
-os.listdir()
+ls2 = os.listdir()
+print(ls2)
 
 print("hello")
