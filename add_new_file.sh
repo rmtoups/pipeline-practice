@@ -1,11 +1,11 @@
 #!/bin/sh
 
 pwd
-ls
-cd rmtoups-github
-ls
-cd ..
-ls
+# ls
+# cd rmtoups-github
+# ls
+# cd ..
+# ls
 cd updated-github
 ls
 
