@@ -2,6 +2,6 @@
 
 import sys
 
-file = open("file_"+sys.argv[1],'w')
+file = open("file_"+sys.argv[1]+".txt",'w')
 file.close()
 #print("hello")
