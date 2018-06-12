@@ -3,11 +3,13 @@
 import sys
 import os
 
-os.listdir()
+ls = os.listdir()
+print(ls)
 
 os.chdir("rmtoups-github")
 
-os.getcwd()
+cwd = os.getcwd()
+print(cwd)
 
 file = open("file_"+sys.argv[1]+".txt",'w+')
 file.write("hello?")
