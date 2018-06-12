@@ -5,7 +5,8 @@ import os
 
 ls = os.listdir()
 print(ls)
-os.mkdir("updated-github")
+if 'updated-github' not in ls:
+	os.mkdir("updated-github")
 os.chdir("updated-github")
 print(os.listdir())
 
