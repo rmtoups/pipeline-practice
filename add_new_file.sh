@@ -1,5 +1,4 @@
 #!/bin/sh
-pwd
-ls
+cd updated-github
 git add *.txt
 git commit -m "added new text file"
