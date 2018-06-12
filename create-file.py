@@ -5,8 +5,9 @@ import os
 
 ls = os.listdir()
 print(ls)
-
+os.mkdir("updated-github")
 os.chdir("updated-github")
+print(os.listdir())
 
 cwd = os.getcwd()
 print(cwd)
